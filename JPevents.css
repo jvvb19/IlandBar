@@ -1,11 +1,21 @@
-h1 { background-image: url(./logo.jpg);
+h1 { 
     background-repeat: no-repeat;
-
-    color: #4753a6;;
+background-image: url(./logo.jpg);
+    color: #e7e8ee;;
     font-weight: bold;
     padding-top: 100px;
     padding-bottom: 100px;
     padding-left: 200px;
-    
+    word-spacing: 10px;
+    height: 50px;
+   
+letter-spacing: 2px;
     }
+body {
+    background-color: hsl(286deg 60% 45%);
+}
     
+    h2 {
+        color: white;
+        
+    }
